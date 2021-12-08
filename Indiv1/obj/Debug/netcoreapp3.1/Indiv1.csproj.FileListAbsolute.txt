@@ -1,0 +1,15 @@
+C:\Users\Артём\source\repos\Indiv1\Indiv1\bin\Debug\netcoreapp3.1\Indiv1.exe
+C:\Users\Артём\source\repos\Indiv1\Indiv1\bin\Debug\netcoreapp3.1\Indiv1.deps.json
+C:\Users\Артём\source\repos\Indiv1\Indiv1\bin\Debug\netcoreapp3.1\Indiv1.runtimeconfig.json
+C:\Users\Артём\source\repos\Indiv1\Indiv1\bin\Debug\netcoreapp3.1\Indiv1.runtimeconfig.dev.json
+C:\Users\Артём\source\repos\Indiv1\Indiv1\bin\Debug\netcoreapp3.1\Indiv1.dll
+C:\Users\Артём\source\repos\Indiv1\Indiv1\bin\Debug\netcoreapp3.1\Indiv1.pdb
+C:\Users\Артём\source\repos\Indiv1\Indiv1\obj\Debug\netcoreapp3.1\Indiv1.csprojAssemblyReference.cache
+C:\Users\Артём\source\repos\Indiv1\Indiv1\obj\Debug\netcoreapp3.1\Indiv1.Form1.resources
+C:\Users\Артём\source\repos\Indiv1\Indiv1\obj\Debug\netcoreapp3.1\Indiv1.csproj.GenerateResource.cache
+C:\Users\Артём\source\repos\Indiv1\Indiv1\obj\Debug\netcoreapp3.1\Indiv1.AssemblyInfoInputs.cache
+C:\Users\Артём\source\repos\Indiv1\Indiv1\obj\Debug\netcoreapp3.1\Indiv1.AssemblyInfo.cs
+C:\Users\Артём\source\repos\Indiv1\Indiv1\obj\Debug\netcoreapp3.1\Indiv1.csproj.CoreCompileInputs.cache
+C:\Users\Артём\source\repos\Indiv1\Indiv1\obj\Debug\netcoreapp3.1\Indiv1.dll
+C:\Users\Артём\source\repos\Indiv1\Indiv1\obj\Debug\netcoreapp3.1\Indiv1.pdb
+C:\Users\Артём\source\repos\Indiv1\Indiv1\obj\Debug\netcoreapp3.1\Indiv1.genruntimeconfig.cache
